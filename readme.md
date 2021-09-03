@@ -6,7 +6,6 @@ An Enigma machine in your pocket to encode and decode secret messages.
 
 This program was written as a result of a class project on cyber security.
 I thought it would be fun to rewrite in BASIC to run on SHARP pocket computers.
-Basically a calculator to secretly communicate.
 
 Recommended reading:
 
