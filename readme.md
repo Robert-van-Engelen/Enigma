@@ -16,8 +16,8 @@ Recommended reading:
 The program is written from scratch and does not use any code from any existing
 Enigma simulators.
 
-The program simulates the Enigma I machine UKW B and C with 1 to 5 rotors.  It
-has been tested with real WW2 secret messages.
+The program accurately simulates the Enigma I machine UKW B and C with 5
+rotors I to V.  It has been tested with real WW2 secret messages.
 
 The program runs on SHARP PC-1350/1360/2500.  A slimmed-down version runs on
 SHARP PC-126x/1475.
