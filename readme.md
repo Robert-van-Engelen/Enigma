@@ -1,6 +1,6 @@
 # Enigma
 
-An Enigma machine in your pocket to encode and decode secret messages.
+An Enigma machine for SHARP pocket computers.
 
 ![PC-2500](PC-2500.jpeg)
 
