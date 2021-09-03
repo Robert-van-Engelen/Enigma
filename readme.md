@@ -27,9 +27,10 @@ SHARP PC-126x/1475.
 `RUN` initializes the system, which takes a few seconds.  Then it will ask
 if you want to print the output `PRINT (y/N)`.  If you reply `Y[ENTER]` then
 the system will ask `PRINT KEYS (Y/n)`.  Reply `Y[ENTER]` to print secret keys,
-which is not recommended if you want to keep your secret keys a secret.  
-Optionally you can print a heading text `HEADING TEXT TO PRINT?` by typing
-it in followed by `[ENTER]`, which will be printed.
+which is not recommended if you want to keep your secret keys a secret.
+Optionally you can print a heading text `HEADING TEXT TO PRINT?` by typing it
+in followed by `[ENTER]`, which will be printed as a heading.  You can use this
+to add information for the recipient.
 
 Next you will need to specify the Enigma UKW, enter `B` (default) or `C`.
 
@@ -128,8 +129,8 @@ manual.
 Use the excellent [PocketTools](https://www.peil-partner.de/ifhe.de/sharp/)
 to convert BASIC source code to wav files:
 
-    bas2img --pc=1350 --level=8 alcatraz.bas
-    bin2wav --pc=1350 alcatraz.img
+    bas2img --pc=1350 --level=8 enigma.bas
+    bin2wav --pc=1350 enigma.img
 
 Then `CLOAD` on your pocket computer.
 
