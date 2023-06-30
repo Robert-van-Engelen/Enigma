@@ -112,7 +112,7 @@ text may also be used to send the key identification group of five letters.
     ?XWB                                 (randomly selected message key)
     TBS                                  (encrypted message key to share)
     [DEF-D]
-    GRUNDSTELLUNG XWB                    (start position to decrypt text)
+    GRUNDSTELLUNG XWB                    (start position to encrypt text)
     ?.....
     ?[ENTER]
     END
