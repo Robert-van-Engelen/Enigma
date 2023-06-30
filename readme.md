@@ -124,7 +124,7 @@ Message from the Russian Front" published in the [Enigma cipher machine
 simulator](https://math.dartmouth.edu/~jvoight/Fa2012-295/EnigmaSimManual.pdf)
 manual.
 
-## How to load
+## How to convert BASIC to WAV files to load
 
 Use the excellent [PocketTools](https://www.peil-partner.de/ifhe.de/sharp/)
 to convert BASIC source code to wav files:
